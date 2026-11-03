@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+# Dataset and trained model
+data/*.csv
+models/*.joblib

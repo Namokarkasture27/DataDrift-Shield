@@ -4,5 +4,8 @@ xgboost
 joblib
 shap
 matplotlib
+scipy
 google-genai
 python-dotenv
+streamlit
+pytest

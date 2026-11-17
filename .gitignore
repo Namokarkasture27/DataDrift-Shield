@@ -13,3 +13,6 @@ __pycache__/
 # Dataset and trained model
 data/*.csv
 models/*.joblib
+
+# Test cache
+.pytest_cache/

@@ -7,7 +7,7 @@ evidence into a plain-language diagnostic report. It then decides whether the
 model should be retrained and automatically replaces the production model only
 if the retrained version is actually better.
 
-Dataset: [IBM Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (7,043 customers, 21 columns).
+Dataset: IBM Telco Customer Churn sample data (7,043 customers, 21 columns), from IBM's GitHub repo `IBM/telco-customer-churn-on-icp4d`.
 
 ## Pipeline
 
